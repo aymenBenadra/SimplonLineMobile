@@ -1,0 +1,49 @@
+[{
+    "id" : "1",
+    "name" : "Charifa Hniguira",
+    "email" : "charifahniguira@simplon.co",
+    "phone" : "0666666666",
+    "password" : "123",
+    "promo": "brendan Eish",
+    "image" : "https://intranet.youcode.ma/storage/users/profile/thumbnail/194-1664893209.JPG"
+  },
+  {
+    "id" : "2",
+    "name" : "Abdelghafour Belkhoukh",
+    "email" : "AbdelghafourBelkhoukh@simplon.co",
+    "phone" : "0666666666",
+    "password" : "123",
+    "promo" : "James gosling",
+    "image" : "https://intranet.youcode.ma/storage/users/profile/thumbnail/229-1664893183.JPG"
+  },
+  {
+    "id" : "3",
+    "name" : "Abdelhaq Akrate",
+    "email" : "AbdelhaqAkrate@simplon.co",
+    "phone" : "0666666666",
+    "password" : "123",
+    "promo" : "js",
+    "image" : "https://intranet.youcode.ma/storage/users/profile/thumbnail/191-1664893192.JPG"
+  },
+  {
+    
+    "id" : "4",
+    "name" : "Abdelmajid el ayachi",
+    "email" : "abdelmajid@simplon.co",
+    "phone" : "0666666666",
+    "password" : "123",
+    "promo" : "js",
+    "image" : "https://intranet.youcode.ma/storage/users/profile/thumbnail/197-1664893200.JPG"
+  },
+  {
+    
+    "id" : "5",
+    "name" : "Mehdi Bairouk",
+    "email" : "Mehdi@simplon.co",
+    "phone" : "0666666666",
+    "password" : "123",
+    "promo" : "js",
+    "image" : "https://intranet.youcode.ma/storage/users/profile/thumbnail/204-1664893218.JPG"
+  }
+
+  ]

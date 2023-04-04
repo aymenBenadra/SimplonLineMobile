@@ -1,0 +1,28 @@
+[{
+    "id" : "1",
+    "name" : "Ilyass Touailab",
+    "email" : "itouailab@simplon.co",
+    "phone" : "0666666666",
+    "password" : "123",
+    "promo": "brendan Eish",
+    "image" : "https://intranet.youcode.ma/storage/users/profile/thumbnail/29-1665941691.jpg"
+  },
+  {
+    "id" : "2",
+    "name" : "My Youssef Sbai",
+    "email" : "myoussefsbai@simplon.co",
+    "phone" : "0666666666",
+    "password" : "123",
+    "promo" : "James gosling",
+    "image" : "https://intranet.youcode.ma/storage/users/profile/thumbnail/17-1665941779.jpg"
+  },
+  {
+    "id" : "3",
+    "name" : "Achraf Elbihi",
+    "email" : "aelbihi.ext@simplon.co",
+    "phone" : "0666666666",
+    "password" : "123",
+    "promo" : "js",
+    "image" : "https://intranet.youcode.ma/storage/users/profile/thumbnail/24-1666863974.jpg"
+  }
+  ]
